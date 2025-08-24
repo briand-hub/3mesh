@@ -4,7 +4,9 @@
 
 A new anonymous network, alternative to Tor and I2P.
 
-## Why?
+## Why? 
+
+> *Your privay, your freedom.*
 
 Every day, **our personal information is being sold, tracked, and abused**. Spam, scam calls, unwanted emails – does this feel familiar? Even with a VPN, **do you still feel watched or controlled online?**
 
