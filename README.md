@@ -1,4 +1,4 @@
-# 3mesh
+# TriMesh Network (3mesh)
 
  [Project official website](https://3mesh.org/)
 
